@@ -1,2 +1,2 @@
-# Exerc-cios-ED
+# Exercicios-ED
 Atividades de Spoj
